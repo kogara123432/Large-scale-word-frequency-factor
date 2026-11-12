@@ -1,0 +1,5 @@
+Data science uses data to find useful information.
+Large scale data processing handles large datasets.
+Word frequency analysis counts how often each word appears.
+Data processing is an important task in data science.
+Hadoop supports large scale data processing.
